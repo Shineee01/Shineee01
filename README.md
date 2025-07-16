@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radhit Akriandra</h1>
-<h3 align="center">A student passionate about ML/AI and future of tech.</h3>
+<h3 align="center">A student passionate about ML/AI and the future of tech.</h3>
 
 - 📫 How to reach me **rakriandra@gmail.com**
 
