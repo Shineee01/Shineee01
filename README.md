@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Radhit Akriandra</h1>
-<h3 align="center">A competitive programmer from Indonesia</h3>
+<h3 align="center">A student passionate about ML/AI and future of tech.</h3>
 
 - 📫 How to reach me **rakriandra@gmail.com**
 
-- ⚡ Fun fact **hate dp.**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
